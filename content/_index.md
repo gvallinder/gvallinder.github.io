@@ -15,16 +15,16 @@ sections:
     content:
       username: admin
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: CV
-        url: uploads/CV.pdf
+      #button:
+      #  text: Resume
+      #  url: uploads/CV.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
         filename: 20170124_115233.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em;'
+        style: 'font-size: 0.8em;'
   - block: experience
     content:
       username: admin
