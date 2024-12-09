@@ -32,9 +32,9 @@ profiles:
     url: 'mailto:gwallinder20@gmail.com'
     label: E-mail Me
   - icon: brands/github
-    url: https://github.com/gustavv20
+    url: https://github.com/gvallinder
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/gustavv20
+    url: https://www.linkedin.com/in/gvallinder
 
 education: 
   - area: MSc Electrical Engineering
