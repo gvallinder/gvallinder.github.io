@@ -47,9 +47,8 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2022-10-01
-    date_end: 2027-10-01
-    summary: |
-      Motion control for autonomous semi-trailer trucks on low-friction roads. Supervised by Pedro F. Lima (Scania), Jonas Mårtensson and Karl-Henrik Johansson (KTH).
+    date_end: ''
+    summary: ''
   - position: Software Developer
     company_name: Epiroc Rock Drills AB 
     company_url: ''
