@@ -18,6 +18,9 @@ sections:
       button:
         text: CV
         url: uploads/CV.pdf
+      button:
+        text: CV - Dark
+        url: uploads/CV_dark.pdf
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
